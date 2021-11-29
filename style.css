@@ -1,0 +1,21 @@
+:root {
+  --orange: #ffa600;
+  --green: #c1d72e;
+  --blue: #82d2e5;
+  --grey: #f3f3f3;
+  --white: #fff;
+}
+
+body {
+  background: var(--blue);
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  height: 100%;
+  color: var(--white);
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: "Roboto", sans-serif;
+}
